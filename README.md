@@ -1,2 +1,1 @@
-# codehub.github.io
-A wonderful place with games made by a specific someone
+Welcome! This is a code place for my projects made in school. Enjoy!
